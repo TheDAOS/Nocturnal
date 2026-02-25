@@ -2,6 +2,11 @@
 @plugin '@tailwindcss/typography';
 
 @theme {
+    --font-title: 'Fraunces', serif;
+    --font-body: 'Inter', sans-serif;
+}
+
+@theme {
   --color-background: #F7F3EE;
   --color-soft-black: #1A1A1A;
   --color-soft-green: #3FAE8C;
