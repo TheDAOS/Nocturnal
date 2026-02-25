@@ -3,7 +3,7 @@
 </script>
 
 <div class="p-4 text-center">
-	<h1 class="text-2xl font-bold text-green-400">Hello, {name}!</h1>
+	<h1 class="text-2xl font-bold text-soft-green">Hello, {name}!</h1>
 </div>
 
 <style>
